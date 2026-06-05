@@ -1,0 +1,31 @@
+[Thu Jun  4 23:24:38 2026] CIRI begins running
+[Thu Jun  4 23:24:38 2026] Loading reference
+[Thu Jun  4 23:25:44 2026] First scanning
+ Candidate reads with splicing signals: 28
+ Candidate reads with PEM signals: 28
+ Candidate circRNAs found: 28
+[Thu Jun  4 23:26:49 2026] Second scanning
+[Thu Jun  4 23:27:39 2026] Extracting info from temporary files
+ Additional candidate reads found: 1
+ Additional candidate reads with PEM signals: 1
+[Thu Jun  4 23:27:40 2026] Summarizing
+ Number of circular RNAs found: 1
+[Thu Jun  4 23:27:40 2026] CIRI finished its work. Please see output file /home/razmia/circ_analysis/ciri_output/outfile for detail.
+--------------------------------------------------------------------------------
+[Fri Jun  5 21:54:32 2026] CIRI begins running
+[Fri Jun  5 21:54:32 2026] Loading reference
+[Fri Jun  5 21:55:26 2026] First scanning
+ Candidate reads with splicing signals: 2778
+ Candidate reads with PEM signals: 2749
+ Candidate circRNAs found: 1829
+[Fri Jun  5 21:56:28 2026] Second scanning
+[Fri Jun  5 21:57:56 2026] Extracting info from temporary files
+ Additional candidate reads found: 289
+ Additional candidate reads with PEM signals: 282
+[Fri Jun  5 21:57:57 2026] Summarizing
+ Number of circular RNAs found: 314
+[Fri Jun  5 21:57:57 2026] CIRI finished its work. Please see output file /home/razmia/circ_analysis/ciri_output/outfile for detail.
+--------------------------------------------------------------------------------
+[Sat Jun  6 02:10:25 2026] CIRI begins running
+[Sat Jun  6 02:10:25 2026] Loading reference
+[Sat Jun  6 02:11:25 2026] First scanning

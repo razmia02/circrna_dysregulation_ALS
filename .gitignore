@@ -1,0 +1,11 @@
+########### Ignore ref_files
+
+ref_files/
+
+########### Ignore fastq files 
+
+fastp/trimmed_SRR36681182_1.fastq.gz
+fastp/trimmed_SRR36681182_2.fastq.gz
+data/
+multiqc/
+alignment/
