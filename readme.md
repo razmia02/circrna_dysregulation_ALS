@@ -1,4 +1,4 @@
-# CircRNA Dysregulation in ALS — Detection Pipeline
+# CircRNA Dysregulation in ALS
 
 ## Project Overview
 Identification and differential expression analysis of circular RNAs across amyotrophic lateral sclerosis (ALS), ALS with cognitive impairment, and healthy control samples using total RNA-seq data [GSE314526](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE314526).
