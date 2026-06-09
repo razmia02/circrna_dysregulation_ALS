@@ -24,7 +24,7 @@ Raw FASTQ → FastQC → Fastp → BWA-mem (T19) → CIRI2 → CIRIquant → DES
 - [ ] ceRNA network construction
 - [ ] TDP-43 crossreference
 
-### Upadated Status: Work in Progress"
+### Upadated Status: Work in Progress
 This repository contains an exploratory circRNA detection pipeline using CIRI2 and CIRIquant applied to a subset of ALS RNA-seq data (GSE314526). Full analysis is paused due to computational resource constraints. The pipeline scripts are functional and validated on a small sample subset. 
 
 ## Results
